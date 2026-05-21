@@ -8,3 +8,5 @@ notas al proyecto
 *texto en cursiva*,
 ``` para bloques de código,
 []() para enlaces,
+
+**Esto es relevante porque el dataset contiene múltiples tipos de missingness y sentinel values**,
